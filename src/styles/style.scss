@@ -1,0 +1,24 @@
+html, 
+body { 
+  margin:0; 
+  padding:0;
+  font-family: 'Lato', sans-serif;
+}
+
+.weirdos {
+	width:auto;
+	margin:0 auto;
+	text-align: center;
+}
+svg {
+  /*float: left;*/
+  display: inline-block;
+}
+.more-btn {
+	display: block;
+  text-align: center;
+  text-decoration: none;
+  color:#f60;
+  font-weight: 100;
+    margin: 40px auto;
+}
