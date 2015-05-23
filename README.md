@@ -1,5 +1,6 @@
-## gulp-html-boilerplate
-Dev environment set up with Gulp, SASS and liveReload.
+## Weirdos
+Just me, and others, being weird...
+mikatalk.github.io/weirdos
 
 
 * Set Up
